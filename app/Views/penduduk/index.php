@@ -22,13 +22,13 @@
                 <div class="text-top">
                     <div class="row">
                         <div class="col-2">
-                            <img src="<?= base_url('src/') ?>img/logo.blob" style="width: 100px;">
+                            <img src="<?= base_url('src/') ?>img/logo_fix.png" style="width: 100px;">
 
                         </div>
                         <div class="col">
-                            <h3>Selamat Datagg Pada Menu Pelayanan Penduduk Kantor
-                                Kecamatan Paringin Kabupaten Balangan</h3>
-                            <b> Jl.Jend A.yani Telp/Fax. (0526) 2894137 Kode Pos 71611 Email : e-camat.paringin@gmail.com</b><br>
+                            <h3>Selamat Datang Pada Menu Pelayanan Penduduk Kantor
+                                Kecamatan Binuang Kabupaten Tapin</h3>
+                            <b> Jl. By Pass Telp/Fax. (0526) 2894137 Kode Pos 71183 Email : humas.kec.binuang@gmail.com</b><br>
 
                         </div>
                     </div>

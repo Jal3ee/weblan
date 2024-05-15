@@ -1,7 +1,7 @@
 <html lang="en">
 
 <head>
-    <title>Register - SB Admin</title>
+    <title>Register - Admin</title>
     <link href="<?= base_url('src/') ?>css/styles.css" rel="stylesheet" />
     <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
 </head>
@@ -36,13 +36,13 @@
                                         <div class="row mb-3">
                                             <div class="col-md-6">
                                                 <div class="form-floating mb-3 mb-md-0">
-                                                    <input name="nama_user" class="form-control" id="inputFirstName" type="text" placeholder="Enter your name" />
+                                                    <input name="nama_user" class="form-control" id="inputFirstName" type="text" placeholder="Enter your name" required/>
                                                     <label for="inputFirstName">Nama</label>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-floating">
-                                                    <input name="username_user" class="form-control" id="inputLastName" type="text" placeholder="Enter your last name" />
+                                                    <input name="username_user" class="form-control" id="inputLastName" type="text" placeholder="Enter your last name" required/>
                                                     <label for="inputLastName">Username</label>
                                                 </div>
                                             </div>
@@ -51,13 +51,13 @@
                                         <div class="row mb-3">
                                             <div class="col-md-6">
                                                 <div class="form-floating mb-3 mb-md-0">
-                                                    <input name="password" class="form-control" id="inputPassword" type="password" placeholder="Create a password" />
+                                                    <input name="password" class="form-control" id="inputPassword" type="password" placeholder="Create a password" required/>
                                                     <label for="inputPassword">Password</label>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-floating mb-3 mb-md-0">
-                                                    <input name="confirm" class="form-control" id="inputPasswordConfirm" type="password" placeholder="Confirm password" />
+                                                    <input name="confirm" class="form-control" id="inputPasswordConfirm" type="password" placeholder="Confirm password" required/>
                                                     <label for="inputPasswordConfirm">Confirm Password</label>
                                                 </div>
                                             </div>

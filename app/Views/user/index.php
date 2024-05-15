@@ -36,8 +36,8 @@
     <main>
         <div class="container-fluid mt-3">
             <!-- // -------------------------------------------------------------------------------------------------------------- -->
-            <div>
-                <img src="<?= base_url('src/') ?>img/dash.jpeg">
+            <!--<div>
+                <img src="<?= base_url('src/') ?>img/dash2.png">
             </div>
             <!-- // -------------------------------------------------------------------------------------------------------------- -->
             <hr>
@@ -155,7 +155,7 @@
             </div>
 
             <div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15946.185981523808!2d115.44704618715816!3d-2.3205225000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2de54f6219795919%3A0x915f6d82f0c14a7e!2sKantor%20CAMAT%20Paringin!5e0!3m2!1sen!2sid!4v1690378529984!5m2!1sen!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31869.809217211903!2d115.0444070170538!3d-3.166666220674292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2de5c8ade6add129%3A0x2a18b01b61a88c30!2sBinoeang%2C%20Tungkap%2C%20Binuang%2C%20Tapin%20Regency%2C%20South%20Kalimantan%2C%20Indonesia!5e0!3m2!1sen!2sus!4v1704360905755!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </main>

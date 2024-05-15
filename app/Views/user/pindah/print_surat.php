@@ -9,7 +9,7 @@
 <!-- kalimat pertama -->
 <br>
 <p style="text-indent: 50px;">
-    Yang bertanda tangan di bawah ini Kepala Kampung Bumi Abadi Jaya Kecamatan Paringin kabupaten Balangan Kalimantan Selatan
+    Yang bertanda tangan di bawah ini Kepala Kampung Bumi Abadi Jaya Kecamatan Binuang Kabupaten Tapin Kalimantan Selatan
 </p>
 <!-- // -------------------------------------------------------------------------------------------------------------- -->
 <!-- bio data -->

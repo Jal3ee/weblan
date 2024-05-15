@@ -5,6 +5,9 @@
         <title>Login - SB Admin</title>
         <link href="<?= base_url('src/') ?>css/styles.css" rel="stylesheet" />
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+
+        <style>
+    </style>
     </head>
 
     <body class="bg-primary">
@@ -39,11 +42,11 @@
                                     <div class="card-body">
                                         <form method="post" action="/auth/valid_login">
                                             <div class="form-floating mb-3">
-                                                <input name="username" class="form-control" id="inputEmail" type="text" placeholder="Your Username" />
+                                                <input name="username" class="form-control" id="inputEmail" type="text" placeholder="Your Username" required/>
                                                 <label for="inputEmail">Username</label>
                                             </div>
                                             <div class="form-floating mb-3">
-                                                <input name="password" class="form-control" id="inputPassword" type="password" placeholder="Password" />
+                                                <input name="password" class="form-control" id="inputPassword" type="password" placeholder="Password" required/>
                                                 <label for="inputPassword">Password</label>
                                             </div>
 

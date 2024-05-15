@@ -67,16 +67,16 @@
     <div class="row">
         <div class="col-3">
             <div class="float-end">
-                <img src="<?= base_url('src/') ?>img/logo.blob" alt="">
+                <img src="<?= base_url('src/') ?>img/logo_fix.png" alt="">
 
             </div>
         </div>
         <div class="col text-center">
             <h4 class="bold">
-                PEMERINTAH KABUPATEN BALANGAN <br>
-                KECAMATAN PARINGIN
+                PEMERINTAH KABUPATEN TAPIN <br>
+                KECAMATAN BINUANG
             </h4>
-            Jl.Jend A.yani Telp/Fax. (0526) 2894137 Kode Pos 71611 Email : e-camat.paringin@gmail.com
+            Jl. By Pass Telp/Fax. (0526) 2894137 Kode Pos 71183 Email : humas.kec.binuang@gmail.com
         </div>
         <div class="col-2"></div>
     </div>

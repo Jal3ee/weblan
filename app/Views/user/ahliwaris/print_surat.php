@@ -34,7 +34,7 @@ Menerangkan dengan ini bahwa :
 </div>
 <!-- // -------------------------------------------------------------------------------------------------------------- -->
 <p style="text-indent: 50px;text-align: justify;">
-    Adalah benar penduduk desa pada Kecamatan Paringin dan sudah meninggal dunia pada (<?= $ahliwaris['hari']; ?>, <?= $ahliwaris['tanggal']; ?>) di (<?= $ahliwaris['tempat']; ?>) di sebabkan (<?= $ahliwaris['sebab']; ?>) telah di kebumikan di tempat. Selanjutnya, di terangkan bahwa daftar nama berikut merupakan ahli waris yang sah dari almarhum (<?= $ahliwaris['nama_penduduk']; ?>) dan kami bertanggungjawab atas pernyataan ini.
+    Adalah benar penduduk desa pada Kecamatan Binuang dan sudah meninggal dunia pada (<?= $ahliwaris['hari']; ?>, <?= $ahliwaris['tanggal']; ?>) di (<?= $ahliwaris['tempat']; ?>) di sebabkan (<?= $ahliwaris['sebab']; ?>) telah di kebumikan di tempat. Selanjutnya, di terangkan bahwa daftar nama berikut merupakan ahli waris yang sah dari almarhum (<?= $ahliwaris['nama_penduduk']; ?>) dan kami bertanggungjawab atas pernyataan ini.
 </p>
 
 <table style="width:100%">

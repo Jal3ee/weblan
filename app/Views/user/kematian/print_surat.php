@@ -38,7 +38,7 @@
 <!-- kata bawah? bodo amat -->
 <br>
 <p style="text-indent: 50px;">
-    Orang yang namanya di sebut di atas adalah benar warga Kecamatan Paringin dan telah Meninggal Dunia, yaiut :
+    Orang yang namanya di sebut di atas adalah benar warga Kecamatan Binuang dan telah Meninggal Dunia, yaiut :
 </p>
 <!-- // -------------------------------------------------------------------------------------------------------------- -->
 <div class="row">
